@@ -27,7 +27,7 @@ A demo instance of Fusion 4.x may be started by using your Github account to log
 **Note: An email address is required to start an instance on Labs.**
 
 ## Launching a Fusion 4.x Instance on Your Own Cloud
-A demo instance of Fusion 4.x may be started on your own Google Cloud account by running a simple script which may be checked out from Github using the `git` command from the Google Cloud Shell. To start a new shell, navigate to [https://console.cloud.google.com/](https://console.cloud.google.com/) and click on the `>_` button toward the top right of the screen.
+A demo instance of Fusion 4.x may be started on your own Google Cloud account (with billing enabled)  by running a simple script which may be checked out from Github using the `git` command from the Google Cloud Shell. To start a new shell, navigate to [https://console.cloud.google.com/](https://console.cloud.google.com/) and click on the `>_` button toward the top right of the screen.
 
 ![animation](https://github.com/lucidworks/streams/blob/master/assets/images/cloudshell.gif?raw=true)
 
